@@ -1,0 +1,15 @@
+{
+  "name": "mn-backend-practice",
+  "version": "1.0.0",
+  "description": "backend following chai or code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Sunita Gjaurel",
+  "license": "ISC"
+}
